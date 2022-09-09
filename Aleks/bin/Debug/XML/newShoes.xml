@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Shoes and price-->
+<shop>
+  <section code:A="sport" xmlns:code="title">
+    <shoes code="Aa1">
+      <name>kross</name>
+      <Color>pink</Color>
+      <price>1000</price>
+      <accessory>
+        <Color>pink</Color>
+        <price>1000</price>
+      </accessory>
+    </shoes>
+  </section>
+</shop>

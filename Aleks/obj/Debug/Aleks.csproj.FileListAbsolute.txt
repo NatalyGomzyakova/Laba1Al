@@ -1,0 +1,7 @@
+C:\Users\Наталья\Desktop\laba1\Aleks\bin\Debug\Aleks.exe.config
+C:\Users\Наталья\Desktop\laba1\Aleks\bin\Debug\Aleks.exe
+C:\Users\Наталья\Desktop\laba1\Aleks\bin\Debug\Aleks.pdb
+C:\Users\Наталья\Desktop\laba1\Aleks\obj\Debug\Aleks.csprojAssemblyReference.cache
+C:\Users\Наталья\Desktop\laba1\Aleks\obj\Debug\Aleks.csproj.CoreCompileInputs.cache
+C:\Users\Наталья\Desktop\laba1\Aleks\obj\Debug\Aleks.exe
+C:\Users\Наталья\Desktop\laba1\Aleks\obj\Debug\Aleks.pdb

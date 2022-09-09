@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<shop xmlns="http://www.Monro.ru/index" xmlns:sch="http://www.Monro.ru/index/section">
+	<section code="A" title="sport">
+
+		<shoes code ="Aa1">
+			<!--<code>b1</code>-->
+			<name>Demix fem</name>
+			<size>36</size>
+			<fabric>Вискоза</fabric>
+			<color>black</color>
+			<made>china</made>
+			<price>1200</price>
+			<discount>0</discount>
+		</shoes>
+		<accessory code ="Ab1">
+			<!--<code>c1</code>-->
+			<name>Ремень</name>
+			<price>450</price>
+		</accessory>
+
+	</section>
+
+	<section code="B" title="kids">
+
+		<shoes code ="Ba1">
+			<!--<code>b1</code>-->
+			<name>Demix fem</name>
+			<size>33</size>
+			<fabric>Вискоза</fabric>
+			<color>pink</color>
+			<made>china</made>
+			<price>2000</price>
+			<discount>10</discount>
+		</shoes>
+		<shoes code ="Ba2">
+			<!--<code>b1</code>-->
+			<name>Demix men</name>
+			<size>37</size>
+			<fabric>Вискоза</fabric>
+			<color>gren</color>
+			<made>china</made>
+			<price>2000</price>
+			<discount>10</discount>
+		</shoes>
+		<accessory code ="Bb1">
+			<!--<code>c1</code>-->
+			<name>Ремень</name>
+			<price>340</price>
+		</accessory>
+		<accessory code ="Bb2">
+			<!--<code>c1</code>-->
+			<name>Брелок</name>
+			<price>300</price>
+		</accessory>
+
+	</section>
+
+	<section code="C" title="spring">
+
+		<shoes code ="Сa1">
+			<!--<code>b1</code>-->
+			<name>boots</name>
+			<size>36</size>
+			<fabric>Эко-кожа</fabric>
+			<color>black</color>
+			<made>china</made>
+			<price>4500</price>
+			<discount>0</discount>
+		</shoes>
+		<accessory code ="Сb1">
+			<!--<code>c1</code>-->
+			<name>Ремень белый</name>
+			<price>450</price>
+		</accessory>
+
+	</section>
+	<section code="D" title="for All">
+
+
+		<accessory code ="Db1">
+			<!--<code>c1</code>-->
+			<name>Ремень</name>
+			<price>450</price>
+		</accessory>
+		<accessory code ="Db2">
+			<!--<code>c1</code>-->
+			<name>Сумка</name>
+			<price>450</price>
+		</accessory>
+		<accessory code ="Db1">
+			<!--<code>c1</code>-->
+			<name>Наушники</name>
+			<price>450</price>
+		</accessory>
+		<accessory code ="Db1">
+			<!--<code>c1</code>-->
+			<name>Блокнот</name>
+			<price>450</price>
+		</accessory>
+
+	</section>
+</shop>
